@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="left: auto; top: auto; right: auto; bottom: auto; width: 100%; height: 100%; flex-direction: column; align-items: stretch; justify-content: center; background-color: rgba(0, 0, 0, 0.45);">
+        <ui:VisualElement style="background-color: rgba(0, 0, 0, 0.62); flex-direction: row; align-items: center; justify-content: center;">
+            <ui:Label text="YOU DIED" display-tooltip-when-elided="true" style="background-color: rgba(0, 0, 0, 0); white-space: nowrap; -unity-font-definition: url(&apos;project://database/Assets/Fonts/LDFComicSans%20SDF.asset?fileID=11400000&amp;guid=d87a2bb96f1f56e46a46878a33a4d62e&amp;type=2#LDFComicSans SDF&apos;); color: rgb(255, 0, 0); font-size: 64px; -unity-text-outline-color: rgba(0, 0, 0, 0);" />
+        </ui:VisualElement>
+        <ui:Label text="Press Space to restart" display-tooltip-when-elided="true" style="-unity-text-align: upper-center; color: rgb(255, 255, 255); font-size: 32px; -unity-font: url(&apos;project://database/Assets/Fonts/LDFComicSans.ttf?fileID=12800000&amp;guid=2ff7f6c9c15f5d24aa359b6da0f5802f&amp;type=3#LDFComicSans&apos;); -unity-font-definition: url(&apos;project://database/Assets/Fonts/LDFComicSans%20SDF.asset?fileID=11400000&amp;guid=d87a2bb96f1f56e46a46878a33a4d62e&amp;type=2#LDFComicSans SDF&apos;);" />
+    </ui:VisualElement>
+</ui:UXML>

@@ -1,0 +1,5 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="top: 20px;">
+        <ui:Label text="0" display-tooltip-when-elided="true" name="score" style="-unity-text-align: upper-center; font-size: 48px; color: rgb(255, 255, 255); -unity-font-definition: url(&apos;project://database/Assets/Fonts/LDFComicSans%20SDF.asset?fileID=11400000&amp;guid=d87a2bb96f1f56e46a46878a33a4d62e&amp;type=2#LDFComicSans SDF&apos;); -unity-font: url(&apos;project://database/Assets/Fonts/LDFComicSans.ttf?fileID=12800000&amp;guid=2ff7f6c9c15f5d24aa359b6da0f5802f&amp;type=3#LDFComicSans&apos;);" />
+    </ui:VisualElement>
+</ui:UXML>
